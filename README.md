@@ -27,6 +27,16 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 - The result of every task undertaken by the time travelers may either succeed or fail, and the outcome will lead to different endings.
 - The time machine must have sufficient energy (1.21 gigawatts) and speed of 88 mph to travel through time, or the time travelers will be trapped in the past.
 
+## Physical Settings and Time Machine Activation
+
+| Era  | Maximum Speed | Power Source | Maximum Electrical Energy | Activation Method |
+|------|---------------|--------------|---------------------------|-------------------|
+| 1985 | Vehicles can easily reach over 88 mph | Initially uses plutonium, later modified to use a "Mr. Fusion" home energy reactor | 1.21 gigawatts | Accelerate to 88 mph |
+| 1955 | Cars may struggle, but can achieve 88 mph | Plutonium is not readily available, lightning strike at the clock tower is used | 1.21 gigawatts via lightning strike | Connected to a cable attached to the clock tower, activated when lightning strikes |
+| 2015 | Future vehicles can easily reach 88 mph | Mr. Fusion home energy reactor, converting household waste into energy | Mr. Fusion can generate 1.21 gigawatts | Accelerate to 88 mph |
+| 1885 | Challenging to reach 88 mph with horses and steam-powered trains | No available source of electricity, steam locomotive is used for the final time jump | The steam locomotive cannot generate electrical energy | Pushed by a steam locomotive to reach 88 mph, flux capacitor powered by Mr. Fusion |
+
+
 ## The Story
 
 As you can see, these rules could lead to many different endings. So, let's start the story and see what happens.
