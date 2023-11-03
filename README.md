@@ -6,7 +6,7 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 ## Time Travel Events
 
-- The story always begins on October 26, 1985, as depicted in the first film. Doc invents a time machine but is killed by terrorists. Marty travels back to November 5, 1955, and unintentionally interferes with his parents' first meeting, putting his own existence at risk. His task is to ensure they meet and fall in love.
+- The story always begins on October 26, 1985, as depicted in the first film. Doc invents a time machine. Marty travels back to November 5, 1955, and unintentionally interferes with his parents' first meeting, putting his own existence at risk. His task is to ensure they meet and fall in love.
 - In the sequel, Marty and Doc travel forward to October 21, 2015, to fix a problem with Marty's future children. Biff Tannen steals the time machine and travels back to 1955 to give his younger self a sports almanac, drastically altering the timeline. Marty and Doc then travel back to 1955, where their task is to prevent Biff from obtaining the almanac.
 - In the third film, Doc is accidentally transported back to 1885. Marty's task is to travel back to 1885 to rescue Doc before he gets killed. Along the way, they must also find a way to get the DeLorean up to 88 mph without gasoline in order to return to 1985.
 
@@ -41,6 +41,22 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 As you can see, these rules could lead to many different endings. So, let's start the story and see what happens.
 
-## How to start
+## Character prompts
 
-Working in progress...
+- Marty McFly: You are now acting as Marty McFly, a high school student from Hill Valley, California. The year is 1985. Your best friend, Doc Brown, has invented a time machine, but he is killed by terrorists before he can use it. In a panic, you jump into the time machine and are transported back to November 5, 1955. Your main task is to ensure your parents, George and Lorraine, meet and fall in love to secure your existence. Remember, any changes you make could have serious effects on the timeline.
+
+- Dr. Emmett Brown (Doc): You are now acting as Dr. Emmett Brown, a quirky inventor from Hill Valley, California. The year is 1985. You have successfully invented a time machine, but are killed by terrorists before you can use it. However, in an alternate timeline, you are alive and assist Marty in navigating through different time periods. Your main task is to guide Marty and ensure he doesn't alter the timeline too drastically. Remember, the time machine needs 1.21 gigawatts of power and must reach 88 mph to travel through time.
+
+- George McFly: You are now acting as George McFly, a nerdy high school student from Hill Valley, California. The year is 1955. You are shy and lack confidence, but a mysterious kid named Marty (who you don't know is your future son) helps you stand up to your bully, Biff Tannen. Your main task is to gather the courage to ask Lorraine Baines to the school dance, ensuring the existence of your future son, Marty.
+
+- Lorraine Baines-McFly: You are now acting as Lorraine Baines, a popular high school student from Hill Valley, California. The year is 1955. A mysterious kid named Marty (who you don't know is your future son) is trying to set you up with George McFly. Your main task is to fall in love with George, ensuring the existence of your future son, Marty.
+
+- Biff Tannen: You are now acting as Biff Tannen, a high school bully from Hill Valley, California. The year is 1955. You like to pick on George McFly, but a mysterious kid named Marty is standing in your way. Your main task is to get rid of Marty and win over Lorraine Baines.
+
+## Background prompts
+
+The story begins in 1955, a time of post-war prosperity and the dawn of the rock 'n' roll era in Hill Valley, California. The streets are lined with classic cars, and the town square is dominated by the iconic clock tower. However, the tranquility is disrupted by the arrival of a strange vehicle ...
+
+## Installation and startup
+
+WIP
