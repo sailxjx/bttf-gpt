@@ -12,11 +12,13 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 ## Characters
 
-- Marty McFly: The main protagonist who travels through time to ensure his existence and correct time anomalies.
-- Dr. Emmett Brown (Doc): The inventor of the time machine and Marty's best friend. He helps Marty navigate through different time periods.
-- George McFly: Marty's father, a somewhat timid and nerdy individual who gains confidence after Marty's intervention in 1955.
-- Lorraine Baines-McFly: Marty's mother, who falls in love with George after Marty ensures they meet in 1955.
-- Biff Tannen: The main antagonist who tries to alter the timeline for his benefit.
+| Avatar | Name | Description |
+| --- | --- | --- |
+| ![Marty](./resources/images/Marty.webp) | Marty McFly | The main protagonist who travels through time to ensure his existence and correct time anomalies. |
+| ![Doc](./resources/images/Doc.webp) | Dr. Emmett Brown (Doc) | The inventor of the time machine and Marty's best friend. He helps Marty navigate through different time periods. |
+| ![George](./resources/images/George.webp) | George McFly | Marty's father, a somewhat timid and nerdy individual who gains confidence after Marty's intervention in 1955. |
+| ![Lorraine](./resources/images/Lorraine.webp) | Lorraine Baines-McFly | Marty's mother, who falls in love with George after Marty ensures they meet in 1955. |
+| ![Biff](./resources/images/Biff.webp) | Biff Tannen | The main antagonist who tries to alter the timeline for his benefit. |
 
 ## Rules to Address the Inconsistencies
 
