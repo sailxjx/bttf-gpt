@@ -1,6 +1,6 @@
 # "Back to the Future" as Interpreted by ChatGPT
 
-![banner](./resources/images/banner.webp)
+![banner](./public/images/banner.webp)
 
 The classic film "Back to the Future" has left us with many memorable scenes and characters, but it also contains a number of inconsistencies in its timeline. When appreciating it as a work of art, these details can be overlooked. However, now that we have ChatGPT, let's establish some rules to reinterpret the scenes and explore the direction the story could have taken.
 
@@ -14,11 +14,11 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 | Avatar | Name | Description |
 | --- | --- | --- |
-| ![Marty](./resources/images/Marty.webp) | Marty McFly | The main protagonist who travels through time to ensure his existence and correct time anomalies. |
-| ![Doc](./resources/images/Doc.webp) | Dr. Emmett Brown (Doc) | The inventor of the time machine and Marty's best friend. He helps Marty navigate through different time periods. |
-| ![George](./resources/images/George.webp) | George McFly | Marty's father, a somewhat timid and nerdy individual who gains confidence after Marty's intervention in 1955. |
-| ![Lorraine](./resources/images/Lorraine.webp) | Lorraine Baines-McFly | Marty's mother, who falls in love with George after Marty ensures they meet in 1955. |
-| ![Biff](./resources/images/Biff.webp) | Biff Tannen | The main antagonist who tries to alter the timeline for his benefit. |
+| ![Marty](./public/images/Marty.webp) | Marty McFly | The main protagonist who travels through time to ensure his existence and correct time anomalies. |
+| ![Doc](./public/images/Doc.webp) | Dr. Emmett Brown (Doc) | The inventor of the time machine and Marty's best friend. He helps Marty navigate through different time periods. |
+| ![George](./public/images/George.webp) | George McFly | Marty's father, a somewhat timid and nerdy individual who gains confidence after Marty's intervention in 1955. |
+| ![Lorraine](./public/images/Lorraine.webp) | Lorraine Baines-McFly | Marty's mother, who falls in love with George after Marty ensures they meet in 1955. |
+| ![Biff](./public/images/Biff.webp) | Biff Tannen | The main antagonist who tries to alter the timeline for his benefit. |
 
 ## Rules to Address the Inconsistencies
 
