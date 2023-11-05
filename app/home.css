@@ -1,0 +1,24 @@
+@keyframes car-animation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-car {
+  animation: car-animation 1s ease-in forwards;
+}
+
+.bg-img {
+  position:absolute;
+  height:100%;
+  width:100%;
+  left:0;
+  top:0;
+  right:0;
+  bottom:0;
+  object-fit:cover;
+  color:transparent;
+}
