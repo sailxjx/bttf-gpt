@@ -30,7 +30,7 @@ export default function Home() {
         </button>
       </div>
       <Image src="/images/city.webp" alt="City background" width={0}
-        height={0} sizes="100vw" className="absolute z-0 bg-img" />
+        height={0} sizes="100vw" className={`absolute z-0 bg-img ${animate ? 'shake' : ''}`} />
     </main>
   )
 }
