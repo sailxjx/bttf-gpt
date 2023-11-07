@@ -1,0 +1,112 @@
+.App {
+  background-color: #111;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.time-point {
+  position: relative;
+  font-weight: bold;
+  font-size: 24px;
+  padding-left: 20px;
+}
+.time-point::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-color: #FFFFFF; /* Adjust color as needed */
+  border-radius: 50%;
+  position: absolute;
+  left: -10px;
+  top: 16px;
+  transform: translateY(-50%);
+}
+
+.timeline-line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 4px;
+  background-color: #FFFFFF;
+}
+
+.event-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  max-width: 400px;
+}
+
+.event-info {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  flex-grow: 1;
+}
+
+.avatar {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #FFFFFF;
+  object-fit: cover;
+}
+
+.event-content {
+  flex-grow: 1;
+  background-color: #FF6347;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.interaction-tip {
+  font-weight: bold;
+}
+
+.user-input {
+  width: 100%;
+  background-color: rgba(0,0,0,0.25);
+  border: none;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  resize: none;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.button {
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.continue-button {
+  background-color: #3498DB;
+}
+.continue-button:hover {
+  background-color: #5EAADC;
+}
+.time-travel-button {
+  background-color: #FF4081;
+}
+.time-travel-button:hover {
+  background-color: #FF6C9E;
+}
