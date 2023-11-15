@@ -1,8 +1,18 @@
-# "Back to the Future" as Interpreted by ChatGPT
+# Back to the Future Adventure Master
 
 ![banner](./resources/images/banner.webp)
 
 The classic film "Back to the Future" has left us with many memorable scenes and characters, but it also contains a number of inconsistencies in its timeline. When appreciating it as a work of art, these details can be overlooked. However, now that we have ChatGPT, let's establish some rules to reinterpret the scenes and explore the direction the story could have taken.
+
+[Play with GPTs](https://chat.openai.com/g/g-ZhhOm52ta-back-to-the-future-adventure-master)
+
+## Examples
+
+| Screenshot | Play |
+| --- | --- |
+| ![marty_join_dance](./resources/images/marty_join_dance.png) | Navigate the school dance as Marty. |
+| ![time_travel](./resources/images/time_travel.png) | Time travel to 1985 |
+| ![play_biff](./resources/images/play_biff.webp) | Play Biff from 1955. |
 
 ## Time Travel Events
 
@@ -41,22 +51,6 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 As you can see, these rules could lead to many different endings. So, let's start the story and see what happens.
 
-## Character prompts
+## LICENSE
 
-- Marty McFly: You are now acting as Marty McFly, a high school student from Hill Valley, California. The year is 1985. Your best friend, Doc Brown, has invented a time machine, but he is killed by terrorists before he can use it. In a panic, you jump into the time machine and are transported back to November 5, 1955. Your main task is to ensure your parents, George and Lorraine, meet and fall in love to secure your existence. Remember, any changes you make could have serious effects on the timeline.
-
-- Dr. Emmett Brown (Doc): You are now acting as Dr. Emmett Brown, a quirky inventor from Hill Valley, California. The year is 1985. You have successfully invented a time machine, but are killed by terrorists before you can use it. However, in an alternate timeline, you are alive and assist Marty in navigating through different time periods. Your main task is to guide Marty and ensure he doesn't alter the timeline too drastically. Remember, the time machine needs 1.21 gigawatts of power and must reach 88 mph to travel through time.
-
-- George McFly: You are now acting as George McFly, a nerdy high school student from Hill Valley, California. The year is 1955. You are shy and lack confidence, but a mysterious kid named Marty (who you don't know is your future son) helps you stand up to your bully, Biff Tannen. Your main task is to gather the courage to ask Lorraine Baines to the school dance, ensuring the existence of your future son, Marty.
-
-- Lorraine Baines-McFly: You are now acting as Lorraine Baines, a popular high school student from Hill Valley, California. The year is 1955. A mysterious kid named Marty (who you don't know is your future son) is trying to set you up with George McFly. Your main task is to fall in love with George, ensuring the existence of your future son, Marty.
-
-- Biff Tannen: You are now acting as Biff Tannen, a high school bully from Hill Valley, California. The year is 1955. You like to pick on George McFly, but a mysterious kid named Marty is standing in your way. Your main task is to get rid of Marty and win over Lorraine Baines.
-
-## Background prompts
-
-The story begins in 1955, a time of post-war prosperity and the dawn of the rock 'n' roll era in Hill Valley, California. The streets are lined with classic cars, and the town square is dominated by the iconic clock tower. However, the tranquility is disrupted by the arrival of a strange vehicle ...
-
-## Installation and startup
-
-WIP
+MIT
