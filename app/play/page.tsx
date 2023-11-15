@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './styles.css';
 import type { Character } from './story';
 import { characters } from './story';
@@ -22,18 +22,17 @@ const App: React.FC = () => {
       character: characters['Lorraine']
     }
   ]);
+
   const [userInput, setUserInput] = useState<string>("");
   const playerCharacter = characters['Marty'];
 
-  const onContinue = () => {
+  const onContinue = async () => {
     // Implement logic here for what should happen when user clicks continue
     // For example, adding a new event to the timeline
     // ...
-
-    alert('Continue clicked! Implement action here.');
   };
 
-  const onTimeTravel = () => {
+  const onTimeTravel = async () => {
     // Logic for time travel button
     alert('Time Travel clicked! Implement action here.');
   };
@@ -46,9 +45,9 @@ const App: React.FC = () => {
           timePoint = <div className='time-point'>{event.time}</div>
         }
         return (
-          <>
+          <React.Fragment key={index}>
             {timePoint}
-            <div key={index} className="event-card">
+            <div className="event-card">
               <div className='timeline-line'></div>
               <div className="event-info">
                 {event.character && <img src={event.character.avatar} alt="Avatar" className="avatar" style={{ borderColor: event.character.color }} />}
@@ -59,7 +58,7 @@ const App: React.FC = () => {
                 </div>
               </div>
             </div>
-          </>
+          </React.Fragment>
         )
       })}
       <div className="event-card">
