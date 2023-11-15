@@ -4,7 +4,7 @@
 
 The classic film "Back to the Future" has left us with many memorable scenes and characters, but it also contains a number of inconsistencies in its timeline. When appreciating it as a work of art, these details can be overlooked. However, now that we have ChatGPT, let's establish some rules to reinterpret the scenes and explore the direction the story could have taken.
 
-[Play with GPTs](https://chat.openai.com/g/g-ZhhOm52ta-back-to-the-future-adventure-master)
+[Play with GPTs (You might need a ChatGPT Plus)](https://chat.openai.com/g/g-ZhhOm52ta-back-to-the-future-adventure-master)
 
 ## Examples
 
@@ -12,7 +12,7 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 | --- | --- |
 | ![marty_join_dance](./resources/images/marty_join_dance.png) | Navigate the school dance as Marty. |
 | ![time_travel](./resources/images/time_travel.png) | Time travel to 1985 |
-| ![play_biff](./resources/images/play_biff.webp) | Play Biff from 1955. |
+| ![play_biff](./resources/images/play_biff.png) | Play Biff from 1955. |
 
 ## Time Travel Events
 
