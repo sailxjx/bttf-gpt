@@ -1,10 +1,10 @@
 # Back to the Future Adventure Master
 
-![banner](./resources/images/banner.webp)
-
 The classic film "Back to the Future" has left us with many memorable scenes and characters, but it also contains a number of inconsistencies in its timeline. When appreciating it as a work of art, these details can be overlooked. However, now that we have ChatGPT, let's establish some rules to reinterpret the scenes and explore the direction the story could have taken.
 
 [Play with GPTs (You might need a ChatGPT Plus)](https://chat.openai.com/g/g-ZhhOm52ta-back-to-the-future-adventure-master)
+
+[Join discord server](https://discord.gg/3vRBTajQxd)
 
 ## Examples
 
