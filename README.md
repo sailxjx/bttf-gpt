@@ -6,6 +6,8 @@ The classic film "Back to the Future" has left us with many memorable scenes and
 
 [Join discord server](https://discord.gg/3vRBTajQxd)
 
+![banner](./resources/images/banner.webp)
+
 ## Examples
 
 | Screenshot | Play |
